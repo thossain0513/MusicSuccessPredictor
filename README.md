@@ -42,6 +42,7 @@ This project welcomes contributions, bug reports, and suggestions. Feel free to 
 - Luna Ragot
 - Abhigyan Biswas
 - Mina Baghai
+- Naya Lee
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
